@@ -1,6 +1,10 @@
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/Kurangtidu/gta6-twitch-forecast/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/Kurangtidu/gta6-twitch-forecast/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
 # GTA VI launch-day Twitch forecast
 
-Entry for make.fun's **"Forecast GTA VI's launch-day Twitch viewers hour by hour"**
+Entry for make.fun's **"Forecast GTA VI's launch-day Twitch viewers hour by hour"** — see the bounty at https://make.fun/bounty/gta6-twitch-ccu-forecast-01
 (`gta6-twitch-ccu-forecast-01`): a program that reads one case and forecasts,
 for each of hours 2–24 of the release day (UTC), five quantiles of the Twitch
 "Grand Theft Auto VI" category's concurrent viewers, scored by mean pinball
